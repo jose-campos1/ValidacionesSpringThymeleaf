@@ -3,7 +3,7 @@
 
  # Control de clientes y validaciones thymeleaf
 
-Pruebas de validaciones thymeleaf en el framework spring..
+Pruebas de validaciones thymeleaf en el framework spring.. las versiones mas especificas del lenguaje las puedes encontrar en el [pom.xml](https://github.com/jose-campos1/ValidacionesSpringThymeleaf/blob/main/ControlDeClientesAuteticacionYvariaciones/pom.xml)
 
   **Actualizar o agregar estas dependencias para que las validaciones de thymeleaf funcionen**
   
