@@ -1,0 +1,6 @@
+vzla\revo\revo\personaService\PersonaServiceImp.class
+vzla\revo\revo\RevoApplication.class
+vzla\revo\revo\dao\IPersonaDao.class
+vzla\revo\revo\persona\Persona.class
+vzla\revo\revo\personaService\PersonaService.class
+vzla\revo\revo\web\ControladorInicio.class
